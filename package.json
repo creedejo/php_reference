@@ -1,0 +1,11 @@
+{
+  "name": "php_reference",
+  "version": "1.0.0",
+  "description": "Simple php reference for OOP and database functions",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Creeden",
+  "license": "ISC"
+}
